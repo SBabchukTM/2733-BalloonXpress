@@ -1,0 +1,10 @@
+using Core.UI;
+using UnityEngine;
+
+namespace Runtime.UI
+{
+    public class #POPUPNAME#Data : BasePopupData
+    {
+
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6c75df5daa2140f4d997bbbbb0ec5391",
+        "GUID:593a5b492d29ac6448b1ebf7f035ef33",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:a17876891ccf3724fa70da4d0adc093a",
+        "GUID:029c1c1b674aaae47a6841a0b89ad80e",
+        "GUID:b84d344bdc496bb47b4cc950e210f129",
+        "GUID:60bfecf5cb232594891bc622f40d6bed",
+        "GUID:08d1c582746949b40ba6a45cdb776bdf",
+        "GUID:059c931883a8a274690376c0592ea9a0",
+        "GUID:ac145e6b8c6034cdbadc8c6e26aedbcf",
+        "GUID:1e8e55397bd004beaba78a667566665f",
+        "GUID:66f0e2287fe48ca49a162384f1e7aabe"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

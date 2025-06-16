@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c0740a689d8fdbf4da616c8d84b526fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - m_VisualTreeAsset: {fileID: 9197481963319205126, guid: 577c6a4b1630593489644c1c2af06fba, type: 3}
+  - PopupPrefab: {fileID: 4009671047421245936, guid: 31147dbfc90415d4f9fcd25ddb07b8e4, type: 3}
+  - _scriptTemplate: {fileID: 4900000, guid: 74ed749b78e8a584e9aa50ec61830e3b, type: 3}
+  - _scriptDataTemplate: {fileID: 4900000, guid: d6b98352c311132478f26ff08deeb301, type: 3}
+  - _uiServiceViewContainer: {fileID: 9132109968144368565, guid: 3c2f50176fd7641408bd7ff4c113fb9b, type: 3}
+  - _constPopupsNamesFile: {fileID: 11500000, guid: 3e6e58a23dfc4473b429d9e906239bf0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

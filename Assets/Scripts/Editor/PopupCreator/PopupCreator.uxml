@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Scripts/Editor/PopupCreator/PopupCreator.uss?fileID=7433441132597879392&amp;guid=eb2d4150fd3408747a3f860b62cfc611&amp;type=3#PopupCreator" />
+    <ui:VisualElement name="BG" style="flex-grow: 0; width: 500px; max-width: none; min-width: auto; height: auto; max-height: none; min-height: auto; margin-top: auto; margin-right: auto; margin-bottom: auto; margin-left: auto; flex-shrink: 0; align-self: auto; justify-content: flex-start; align-items: stretch; flex-direction: column;">
+        <ui:Label tabindex="-1" text="Popup Names" parse-escape-sequences="true" display-tooltip-when-elided="true" style="font-size: 28px; -unity-font-style: bold;" />
+        <ui:ListView show-add-remove-footer="true" name="PopupNamesList" />
+        <ui:Button text="Create Popups" parse-escape-sequences="true" display-tooltip-when-elided="true" name="CreatePopupsButton" />
+        <ui:Label tabindex="-1" text="Popups In Project" parse-escape-sequences="true" display-tooltip-when-elided="true" name="PrefabsList" style="font-size: 28px; -unity-font-style: bold; margin-top: 50px;" />
+        <ui:ListView name="PrefabsList" />
+    </ui:VisualElement>
+</ui:UXML>

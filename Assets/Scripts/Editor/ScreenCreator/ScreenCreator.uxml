@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Scripts/Editor/ScreenCreator/ScreenCreator.uss?fileID=7433441132597879392&amp;guid=5670d8f6b427fbb4fbf338bb3d2d9a5d&amp;type=3#ScreenCreator" />
+    <ui:VisualElement name="BG" style="flex-grow: 0; width: 500px; height: auto; max-width: none; max-height: none; min-width: auto; min-height: auto; margin-top: auto; margin-right: auto; margin-bottom: auto; margin-left: auto; flex-shrink: 0;">
+        <ui:Label tabindex="-1" text="Screen Names" parse-escape-sequences="true" display-tooltip-when-elided="true" style="-unity-font-style: bold; font-size: 28px;" />
+        <ui:ListView show-add-remove-footer="true" name="ScreenNamesList" />
+        <ui:Button text="Create Screens" parse-escape-sequences="true" display-tooltip-when-elided="true" name="CreateScreensButton" />
+        <ui:Label tabindex="-1" text="Screens in project" parse-escape-sequences="true" display-tooltip-when-elided="true" style="-unity-font-style: bold; font-size: 28px; margin-top: 50px;" />
+        <ui:ListView name="PrefabsList" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f832290967324f03b8cdd3404245ab3f, type: 3}
+  m_Name: AudioConfig
+  m_EditorClassIdentifier: 
+  Audio:
+  - Id: OpenPopup
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 703f28493b9f7f040b3dbb6446ff5d8f, type: 3}
+  - Id: OpenScreenSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 703f28493b9f7f040b3dbb6446ff5d8f, type: 3}
+  - Id: CloseScreenSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 703f28493b9f7f040b3dbb6446ff5d8f, type: 3}
+  - Id: ClosePopupSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 703f28493b9f7f040b3dbb6446ff5d8f, type: 3}
+  - Id: PressActiveButtonSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 58991fbc000b37c4aacde08764f58cac, type: 3}
+  - Id: PressNotActiveButtonSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 58991fbc000b37c4aacde08764f58cac, type: 3}
+  - Id: PressButtonSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 58991fbc000b37c4aacde08764f58cac, type: 3}
+  - Id: Music
+    AudioType: 0
+    Clip: {fileID: 8300000, guid: a31c7f84f4b862b46877fe3a3ab58de6, type: 3}
+  - Id: ErrorSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 431ebd4a929896f429cea28c5345848d, type: 3}
+  - Id: PurchaseSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 1dbd99b742fde7c4ba953ac884616626, type: 3}
+  - Id: SelectSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 1dbd99b742fde7c4ba953ac884616626, type: 3}
+  - Id: VictorySound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 0c73fcb43330f734f81061b361b3ad74, type: 3}
+  - Id: LoseSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 691e3cdc01173b44aa17e94e458c48a1, type: 3}
+  - Id: CollisionSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: f81213396e9de8f42877b01b82cb2d4a, type: 3}

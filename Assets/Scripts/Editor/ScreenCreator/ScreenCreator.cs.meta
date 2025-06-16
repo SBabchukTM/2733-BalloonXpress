@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 10a899d28c009f6468664071958cda0b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - m_VisualTreeAsset: {fileID: 9197481963319205126, guid: 269c7136fb1dcba45832676c7b3109e0, type: 3}
+  - ScreenPrefab: {fileID: 6578630765971127254, guid: 66cd3e6946d22d4478ae073dde72e003, type: 3}
+  - _scriptTemplate: {fileID: 4900000, guid: b2835fe76301d9f43925a0695f32f2d6, type: 3}
+  - _uiServiceViewContainer: {fileID: 9132109968144368565, guid: 3c2f50176fd7641408bd7ff4c113fb9b, type: 3}
+  - _constScreenNamesFile: {fileID: 11500000, guid: 3e6e58a23dfc4473b429d9e906239bf0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84649078620",
+    "project_id": "balloonxpress-54524",
+    "storage_bucket": "balloonxpress-54524.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84649078620:android:9be8622d768edebb421b99",
+        "android_client_info": {
+          "package_name": "com.necta.wif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqbh0acKBvZtMscDiKcLKo7h8Z-8Ps07s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

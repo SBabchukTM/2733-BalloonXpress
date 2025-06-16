@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelUserStore">
+    <attachedFolders />
+    <explicitIncludes>
+      <Path>Library/PackageCache/com.cysharp.unitask@cdf88c6a6a</Path>
+      <Path>Library/PackageCache/com.unity.addressables@1.21.21</Path>
+      <Path>Library/PackageCache/com.unity.ai.navigation@1.1.5</Path>
+      <Path>Library/PackageCache/com.unity.collab-proxy@2.3.1</Path>
+      <Path>Library/PackageCache/com.unity.ext.nunit@1.0.6</Path>
+      <Path>Library/PackageCache/com.unity.ide.rider@3.0.28</Path>
+      <Path>Library/PackageCache/com.unity.ide.visualstudio@2.0.22</Path>
+      <Path>Library/PackageCache/com.unity.ide.vscode@1.2.5</Path>
+      <Path>Library/PackageCache/com.unity.mobile.android-logcat@1.4.2</Path>
+      <Path>Library/PackageCache/com.unity.mobile.notifications@2.3.2</Path>
+      <Path>Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1</Path>
+      <Path>Library/PackageCache/com.unity.purchasing@4.12.2</Path>
+      <Path>Library/PackageCache/com.unity.scriptablebuildpipeline@1.21.23</Path>
+      <Path>Library/PackageCache/com.unity.services.core@1.12.5</Path>
+      <Path>Library/PackageCache/com.unity.test-framework@1.1.33</Path>
+      <Path>Library/PackageCache/com.unity.textmeshpro@3.0.6</Path>
+      <Path>Library/PackageCache/com.unity.timeline@1.7.6</Path>
+      <Path>Library/PackageCache/com.unity.visualscripting@1.9.4</Path>
+      <Path>Packages</Path>
+      <Path>ProjectSettings</Path>
+    </explicitIncludes>
+    <explicitExcludes>
+      <Path>.git</Path>
+      <Path>.github</Path>
+      <Path>.idea</Path>
+      <Path>Keystore</Path>
+      <Path>Library</Path>
+      <Path>Logs</Path>
+      <Path>Temp</Path>
+      <Path>UIElementsSchema</Path>
+      <Path>UserSettings</Path>
+      <Path>fastlane</Path>
+      <Path>obj</Path>
+    </explicitExcludes>
+  </component>
+</project>
